@@ -1,3 +1,0 @@
-gmake[2]: *** [CMakeFiles/add_two_ints_server.dir/build.make:76: CMakeFiles/add_two_ints_server.dir/src/add_two_ints_server.cpp.o] Interrupt
-gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/add_two_ints_server.dir/all] Interrupt
-gmake: *** [Makefile:146: all] Interrupt
