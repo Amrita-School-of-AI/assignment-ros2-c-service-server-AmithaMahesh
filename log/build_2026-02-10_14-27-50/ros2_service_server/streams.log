@@ -1,0 +1,35 @@
+[0.014s] Invoking command in '/home/amitha/assignment-ros2-c-service-server-AmithaMahesh/build/ros2_service_server': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/amitha/assignment-ros2-c-service-server-AmithaMahesh/build/ros2_service_server -- -j22 -l22
+[0.125s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.417s] -- Found rclcpp: 28.1.13 (/opt/ros/jazzy/share/rclcpp/cmake)
+[0.463s] -- Found rosidl_generator_c: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[0.475s] -- Found rosidl_generator_cpp: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[0.490s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.507s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.587s] -- Found rmw_implementation_cmake: 7.3.2 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[0.589s] -- Found rmw_fastrtps_cpp: 8.4.3 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[0.676s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.761s] -- Found example_interfaces: 0.12.0 (/opt/ros/jazzy/share/example_interfaces/cmake)
+[0.932s] -- Configuring done (0.8s)
+[0.949s] -- Generating done (0.0s)
+[0.954s] -- Build files have been written to: /home/amitha/assignment-ros2-c-service-server-AmithaMahesh/build/ros2_service_server
+[1.036s] [100%] Built target add_two_ints_server
+[1.052s] Invoked command in '/home/amitha/assignment-ros2-c-service-server-AmithaMahesh/build/ros2_service_server' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/amitha/assignment-ros2-c-service-server-AmithaMahesh/build/ros2_service_server -- -j22 -l22
+[1.064s] Invoking command in '/home/amitha/assignment-ros2-c-service-server-AmithaMahesh/build/ros2_service_server': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/amitha/assignment-ros2-c-service-server-AmithaMahesh/build/ros2_service_server
+[1.075s] -- Install configuration: ""
+[1.075s] -- Up-to-date: /home/amitha/assignment-ros2-c-service-server-AmithaMahesh/install/ros2_service_server/lib/ros2_service_server/add_two_ints_server
+[1.075s] -- Installing: /home/amitha/assignment-ros2-c-service-server-AmithaMahesh/install/ros2_service_server/share/ament_index/resource_index/package_run_dependencies/ros2_service_server
+[1.076s] -- Up-to-date: /home/amitha/assignment-ros2-c-service-server-AmithaMahesh/install/ros2_service_server/share/ament_index/resource_index/parent_prefix_path/ros2_service_server
+[1.076s] -- Up-to-date: /home/amitha/assignment-ros2-c-service-server-AmithaMahesh/install/ros2_service_server/share/ros2_service_server/environment/ament_prefix_path.sh
+[1.076s] -- Up-to-date: /home/amitha/assignment-ros2-c-service-server-AmithaMahesh/install/ros2_service_server/share/ros2_service_server/environment/ament_prefix_path.dsv
+[1.076s] -- Up-to-date: /home/amitha/assignment-ros2-c-service-server-AmithaMahesh/install/ros2_service_server/share/ros2_service_server/environment/path.sh
+[1.076s] -- Up-to-date: /home/amitha/assignment-ros2-c-service-server-AmithaMahesh/install/ros2_service_server/share/ros2_service_server/environment/path.dsv
+[1.076s] -- Up-to-date: /home/amitha/assignment-ros2-c-service-server-AmithaMahesh/install/ros2_service_server/share/ros2_service_server/local_setup.bash
+[1.076s] -- Up-to-date: /home/amitha/assignment-ros2-c-service-server-AmithaMahesh/install/ros2_service_server/share/ros2_service_server/local_setup.sh
+[1.076s] -- Up-to-date: /home/amitha/assignment-ros2-c-service-server-AmithaMahesh/install/ros2_service_server/share/ros2_service_server/local_setup.zsh
+[1.076s] -- Up-to-date: /home/amitha/assignment-ros2-c-service-server-AmithaMahesh/install/ros2_service_server/share/ros2_service_server/local_setup.dsv
+[1.077s] -- Installing: /home/amitha/assignment-ros2-c-service-server-AmithaMahesh/install/ros2_service_server/share/ros2_service_server/package.dsv
+[1.077s] -- Up-to-date: /home/amitha/assignment-ros2-c-service-server-AmithaMahesh/install/ros2_service_server/share/ament_index/resource_index/packages/ros2_service_server
+[1.077s] -- Up-to-date: /home/amitha/assignment-ros2-c-service-server-AmithaMahesh/install/ros2_service_server/share/ros2_service_server/cmake/ros2_service_serverConfig.cmake
+[1.077s] -- Up-to-date: /home/amitha/assignment-ros2-c-service-server-AmithaMahesh/install/ros2_service_server/share/ros2_service_server/cmake/ros2_service_serverConfig-version.cmake
+[1.077s] -- Installing: /home/amitha/assignment-ros2-c-service-server-AmithaMahesh/install/ros2_service_server/share/ros2_service_server/package.xml
+[1.078s] Invoked command in '/home/amitha/assignment-ros2-c-service-server-AmithaMahesh/build/ros2_service_server' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/amitha/assignment-ros2-c-service-server-AmithaMahesh/build/ros2_service_server
