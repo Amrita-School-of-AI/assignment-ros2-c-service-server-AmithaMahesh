@@ -1,0 +1,21 @@
+[ 50%] [32mBuilding CXX object CMakeFiles/add_two_ints_server.dir/src/add_two_ints_server.cpp.o[0m
+[100%] [32m[1mLinking CXX executable add_two_ints_server[0m
+[100%] Built target add_two_ints_server
+-- Install configuration: ""
+-- Installing: /home/amitha/assignment-ros2-c-service-server-AmithaMahesh/install/ros2_service_server/lib/ros2_service_server/add_two_ints_server
+-- Set non-toolchain portion of runtime path of "/home/amitha/assignment-ros2-c-service-server-AmithaMahesh/install/ros2_service_server/lib/ros2_service_server/add_two_ints_server" to ""
+-- Installing: /home/amitha/assignment-ros2-c-service-server-AmithaMahesh/install/ros2_service_server/share/ament_index/resource_index/package_run_dependencies/ros2_service_server
+-- Installing: /home/amitha/assignment-ros2-c-service-server-AmithaMahesh/install/ros2_service_server/share/ament_index/resource_index/parent_prefix_path/ros2_service_server
+-- Installing: /home/amitha/assignment-ros2-c-service-server-AmithaMahesh/install/ros2_service_server/share/ros2_service_server/environment/ament_prefix_path.sh
+-- Installing: /home/amitha/assignment-ros2-c-service-server-AmithaMahesh/install/ros2_service_server/share/ros2_service_server/environment/ament_prefix_path.dsv
+-- Installing: /home/amitha/assignment-ros2-c-service-server-AmithaMahesh/install/ros2_service_server/share/ros2_service_server/environment/path.sh
+-- Installing: /home/amitha/assignment-ros2-c-service-server-AmithaMahesh/install/ros2_service_server/share/ros2_service_server/environment/path.dsv
+-- Installing: /home/amitha/assignment-ros2-c-service-server-AmithaMahesh/install/ros2_service_server/share/ros2_service_server/local_setup.bash
+-- Installing: /home/amitha/assignment-ros2-c-service-server-AmithaMahesh/install/ros2_service_server/share/ros2_service_server/local_setup.sh
+-- Installing: /home/amitha/assignment-ros2-c-service-server-AmithaMahesh/install/ros2_service_server/share/ros2_service_server/local_setup.zsh
+-- Installing: /home/amitha/assignment-ros2-c-service-server-AmithaMahesh/install/ros2_service_server/share/ros2_service_server/local_setup.dsv
+-- Installing: /home/amitha/assignment-ros2-c-service-server-AmithaMahesh/install/ros2_service_server/share/ros2_service_server/package.dsv
+-- Installing: /home/amitha/assignment-ros2-c-service-server-AmithaMahesh/install/ros2_service_server/share/ament_index/resource_index/packages/ros2_service_server
+-- Installing: /home/amitha/assignment-ros2-c-service-server-AmithaMahesh/install/ros2_service_server/share/ros2_service_server/cmake/ros2_service_serverConfig.cmake
+-- Installing: /home/amitha/assignment-ros2-c-service-server-AmithaMahesh/install/ros2_service_server/share/ros2_service_server/cmake/ros2_service_serverConfig-version.cmake
+-- Installing: /home/amitha/assignment-ros2-c-service-server-AmithaMahesh/install/ros2_service_server/share/ros2_service_server/package.xml
