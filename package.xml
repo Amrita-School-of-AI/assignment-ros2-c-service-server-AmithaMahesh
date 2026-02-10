@@ -2,9 +2,9 @@
 <package format="3">
   <name>ros2_service_server</name>
   <version>0.0.0</version>
-  <description>ROS2 Add Two Ints Service Server</description>
+  <description>ROS2 C++ Add Two Ints Service Server</description>
 
-  <maintainer email="student@university.edu">Student</maintainer>
+  <maintainer email="student@example.com">student</maintainer>
   <license>Apache-2.0</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>

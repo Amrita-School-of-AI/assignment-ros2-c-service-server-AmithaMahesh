@@ -1,6 +1,6 @@
 set(_AMENT_PACKAGE_NAME "ros2_service_server")
 set(ros2_service_server_VERSION "0.0.0")
-set(ros2_service_server_MAINTAINER "Student <student@university.edu>")
+set(ros2_service_server_MAINTAINER "student <student@example.com>")
 set(ros2_service_server_BUILD_DEPENDS "rclcpp" "example_interfaces")
 set(ros2_service_server_BUILDTOOL_DEPENDS "ament_cmake")
 set(ros2_service_server_BUILD_EXPORT_DEPENDS "rclcpp" "example_interfaces")
